@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mcp
+gemini.baseurl: https://generativelanguage.googleapis.com
+googleai.api.key: AIzaSyDmjye25Knh67zYhF--IXBdMBzUVV2tgeA
